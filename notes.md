@@ -1,3 +1,16 @@
+## Consistency / CAP
+
+- http://blog.nahurst.com/visual-guide-to-nosql-systems
+- https://codahale.com/you-cant-sacrifice-partition-tolerance/
+- https://jepsen.io/
+- https://jepsen.io/analyses/mongodb-3-4-0-rc3
+
+
+## New Stuff to consider
+
+- https://www.cockroachlabs.com/
+- Calvin / Fauna https://fauna.com/
+
 ## CouchDB Evangelism
 
 - https://www.slideshare.net/deniswsrosa/why-microservices-architectures-drive-exceptional-customer-experiences
